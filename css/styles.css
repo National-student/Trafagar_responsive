@@ -237,4 +237,8 @@ main {
   .intro__container {
     flex-direction: column-reverse;
   }
+
+  .intro__img {
+    margin-bottom: 30px;
+  }
 }
