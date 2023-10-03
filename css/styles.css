@@ -274,6 +274,10 @@ main {
     flex-direction: column-reverse;
   }
 
+  .services__content {
+    text-align: center;
+  }
+
   .intro__img {
     margin-bottom: 30px;
   }
